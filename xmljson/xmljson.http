@@ -1,0 +1,6 @@
+@xmljson_HostAddress = http://localhost:5172
+
+GET {{xmljson_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
